@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;  
+    /* background-color: #DCEDFF; */
+}
+
+
+
+
+.header .container .left h3{
+    background-color: #C9E3FF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+}
+
+ .header .right ul, li,i{
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+}
+i{
+    color: rgb(252, 177, 177);
+}
+main{
+    background:linear-gradient(to left, #47FED2 , #007AFF);
+    /* opacity :0.2; */
+}
+
